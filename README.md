@@ -1,5 +1,5 @@
 # VisaGO
-Prueba de concepto: Microservicio para autenticar contra un servidor ldap y que devuelve tokens JWT con los datos de usuario.
+Microservicio para autenticar contra un servidor ldap y que devuelve tokens JWT con los datos de usuario.
 
 ![Esquema VisaGo](visago_esquema.jpg)
 
